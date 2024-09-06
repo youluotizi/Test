@@ -12,3 +12,5 @@ myeig(rand(3,3))
 myeigen(rand(3,3))
 
 mytrapz(sin.(0:0.1:pi))
+
+x = rand(10)
