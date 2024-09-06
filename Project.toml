@@ -1,0 +1,7 @@
+name = "Test"
+uuid = "b7dded9f-6612-4ba7-a4f1-2b2650ddc2f8"
+authors = ["zylt "]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
